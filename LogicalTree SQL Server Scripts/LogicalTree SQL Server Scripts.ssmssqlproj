@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LogicalTree SQL Server Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="craete_tblDescriptor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>craete_tblDescriptor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_GetAllCoinsGivenCondition_SP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_GetAllCoinsGivenCondition_SP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblApplication.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblApplication.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblApplication_Database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblApplication_Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute v2.0.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute v2.0.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute v2.0_OLD.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute v2.0_OLD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute_Db_Table_Field.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute_Db_Table_Field.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute_Db_Table_Field_Value.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute_Db_Table_Field_Value.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute_Query_String.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute_Query_String.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute_Table_Field.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute_Table_Field.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblAttribute_Table_Field_Value.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblAttribute_Table_Field_Value.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblColumn_Suffix.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblColumn_Suffix.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblDatabase.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblDatabase_Definition.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblDatabase_Definition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblDescriptor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblDescriptor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tblNode.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tblNode.sql</FullPath>
+        </FileNode>
+        <FileNode Name="create_tbQuery_Objects.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>create_tbQuery_Objects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="loading tblAttribute.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>loading tblAttribute.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
